@@ -1,0 +1,2136 @@
+{
+  "invoices": [
+    {
+      "number": "FV/2024/04/001",
+      "client_name": "Jan Kowalski",
+      "seller_name": "TechPro Sp. z o.o.",
+      "tax_number": "1234567890",
+      "total_net_amount": 1000.00,
+      "total_tax_amount": 230.00,
+      "amount": 1230.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-01",
+      "due_date": "2024-04-10"
+    },
+    {
+      "number": "FV/2024/04/002",
+      "client_name": "Anna Nowak",
+      "seller_name": "InnoTech S.A.",
+      "tax_number": "9876543210",
+      "total_net_amount": 1500.00,
+      "total_tax_amount": 345.00,
+      "amount": 1845.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-02",
+      "due_date": "2024-04-11"
+    },
+    {
+      "number": "FV/2024/04/003",
+      "client_name": "Jan Nowak",
+      "seller_name": "DataSoft",
+      "tax_number": "1112223334",
+      "total_net_amount": 500.00,
+      "total_tax_amount": 115.00,
+      "amount": 615.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-03",
+      "due_date": "2024-04-15"
+    },
+    {
+      "number": "FV/2024/04/004",
+      "client_name": "Ewa Malinowska",
+      "seller_name": "SkyTech",
+      "tax_number": "5566778899",
+      "total_net_amount": 2400.00,
+      "total_tax_amount": 552.00,
+      "amount": 2952.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-04",
+      "due_date": "2024-04-14"
+    },
+    {
+      "number": "FV/2024/04/005",
+      "client_name": "Marek Kowalski",
+      "seller_name": "Nowak Biznes",
+      "tax_number": "1029384756",
+      "total_net_amount": 300.00,
+      "total_tax_amount": 69.00,
+      "amount": 369.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-05",
+      "due_date": "2024-04-20"
+    },
+    {
+      "number": "FV/2024/05/001",
+      "client_name": "Jan Kowalski",
+      "seller_name": "InnoWorks",
+      "tax_number": "1234509876",
+      "total_net_amount": 1000.00,
+      "total_tax_amount": 230.00,
+      "amount": 1230.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-01",
+      "due_date": "2024-05-10"
+    },
+    {
+      "number": "FV/2024/05/002",
+      "client_name": "Anna Nowak",
+      "seller_name": "WebPro",
+      "tax_number": "9876543211",
+      "total_net_amount": 1500.00,
+      "total_tax_amount": 345.00,
+      "amount": 1845.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-02",
+      "due_date": "2024-05-11"
+    },
+    {
+      "number": "FV/2024/05/003",
+      "client_name": "Ewa Malinowska",
+      "seller_name": "TechMasters",
+      "tax_number": "1122334455",
+      "total_net_amount": 2000.00,
+      "total_tax_amount": 460.00,
+      "amount": 2460.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-03",
+      "due_date": "2024-05-13"
+    },
+    {
+      "number": "FV/2024/B2B/001",
+      "client_name": "Alpha Logistics Sp. z o.o.",
+      "seller_name": "SpeedNet S.A.",
+      "tax_number": "7862035599",
+      "total_net_amount": 4200.00,
+      "total_tax_amount": 966.00,
+      "amount": 5166.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-03",
+      "due_date": "2024-05-17"
+    },
+    {
+      "number": "FV/2024/B2B/002",
+      "client_name": "NovaTech Solutions",
+      "seller_name": "CloudPartners Sp. z o.o.",
+      "tax_number": "9283726451",
+      "total_net_amount": 8000.00,
+      "total_tax_amount": 1840.00,
+      "amount": 9840.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-05",
+      "due_date": "2024-05-20"
+    },
+    {
+      "number": "FV/2024/B2B/003",
+      "client_name": "GreenBuild S.C.",
+      "seller_name": "EcoEnergy Polska",
+      "tax_number": "9988776655",
+      "total_net_amount": 9500.00,
+      "total_tax_amount": 2185.00,
+      "amount": 11685.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-07",
+      "due_date": "2024-05-21"
+    },
+    {
+      "number": "FV/2024/MIX/001",
+      "client_name": "Jan Nowak",
+      "seller_name": "Firma XYZ",
+      "tax_number": null,
+      "total_net_amount": 100.00,
+      "total_tax_amount": 23.00,
+      "amount": 123.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-10",
+      "due_date": "2024-04-25"
+    },
+    {
+      "number": "FV/2024/MIX/002",
+      "client_name": "Blue Corp LLC",
+      "seller_name": "Orange Systems",
+      "tax_number": "1234567890",
+      "total_net_amount": 500.00,
+      "total_tax_amount": 115.00,
+      "amount": 615.00,
+      "currency": "EUR",
+      "issue_date": "2024-04-12",
+      "due_date": "2024-04-22"
+    },
+    {
+      "number": "FV/2024/MIX/003",
+      "client_name": "",
+      "seller_name": "Kowalski i Syn",
+      "tax_number": null,
+      "total_net_amount": 0.00,
+      "total_tax_amount": 0.00,
+      "amount": 0.00,
+      "currency": "PLN",
+      "issue_date": null,
+      "due_date": null
+    },
+    {
+      "number": "FV/2024/MIX/004",
+      "client_name": "Maria Zielińska",
+      "seller_name": "Sprzedaż Detaliczna",
+      "tax_number": null,
+      "total_net_amount": 200.00,
+      "total_tax_amount": 46.00,
+      "amount": 246.00,
+      "currency": "USD",
+      "issue_date": "2024-04-14",
+      "due_date": "2024-04-30"
+    },
+    {
+      "number": "FV/2024/PRO/101",
+      "client_name": "Kancelaria Radcy Prawnego Jan Kowalski",
+      "seller_name": "SoftVision Sp. z o.o.",
+      "tax_number": "9452137781",
+      "total_net_amount": 4000.00,
+      "total_tax_amount": 920.00,
+      "amount": 4920.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-01",
+      "due_date": "2024-04-15"
+    },
+    {
+      "number": "FV-04/2024-52",
+      "client_name": "Grupa Handlowa Płatek",
+      "seller_name": "PHU Omega",
+      "tax_number": "7342048112",
+      "total_net_amount": 1800.00,
+      "total_tax_amount": 414.00,
+      "amount": 2214.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-03",
+      "due_date": "2024-04-17"
+    },
+    {
+      "number": "2024/INV/907",
+      "client_name": "Anna Lis",
+      "seller_name": "Printico",
+      "tax_number": null,
+      "total_net_amount": 320.00,
+      "total_tax_amount": 73.60,
+      "amount": 393.60,
+      "currency": "PLN",
+      "issue_date": "2024-04-04",
+      "due_date": "2024-04-18"
+    },
+    {
+      "number": "FV-2024-0011",
+      "client_name": "Zakład Remontowy Łukasz Nowak",
+      "seller_name": "AlfaTech",
+      "tax_number": "9271850024",
+      "total_net_amount": 1500.00,
+      "total_tax_amount": 345.00,
+      "amount": 1845.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-10",
+      "due_date": "2024-04-20"
+    },
+    {
+      "number": "INV/2024/204",
+      "client_name": "Magdalena Wiśniewska",
+      "seller_name": "FitStudio Sp. z o.o.",
+      "tax_number": null,
+      "total_net_amount": 200.00,
+      "total_tax_amount": 46.00,
+      "amount": 246.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-11",
+      "due_date": "2024-04-25"
+    },
+    {
+      "number": "FV/04/2024/A33",
+      "client_name": "QubeDesign Sp. z o.o.",
+      "seller_name": "StudioGraf",
+      "tax_number": "6482185541",
+      "total_net_amount": 10000.00,
+      "total_tax_amount": 2300.00,
+      "amount": 12300.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-12",
+      "due_date": "2024-04-19"
+    },
+    {
+      "number": "FV/2024/05/001",
+      "client_name": "ACME Corp",
+      "seller_name": "Xpress Ltd.",
+      "tax_number": "1234567890",
+      "total_net_amount": 2000.00,
+      "total_tax_amount": 460.00,
+      "amount": 2460.00,
+      "currency": "USD",
+      "issue_date": "2024-05-01",
+      "due_date": "2024-05-10"
+    },
+    {
+      "number": "",
+      "client_name": "Adam K.",
+      "seller_name": "Biuro Rachunkowe Szybki Księgowy",
+      "tax_number": "",
+      "total_net_amount": 300.00,
+      "total_tax_amount": 69.00,
+      "amount": 369.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-02",
+      "due_date": null
+    },
+    {
+      "number": "FV/2024/05/003",
+      "client_name": "XYZ Investments",
+      "seller_name": "",
+      "tax_number": "PL9999999999",
+      "total_net_amount": 5000.00,
+      "total_tax_amount": 0.00,
+      "amount": 5000.00,
+      "currency": "EUR",
+      "issue_date": "2024-04-30",
+      "due_date": "2024-05-15"
+    },
+    {
+      "number": "FRACTURE/05/004",
+      "client_name": "Zofia N.",
+      "seller_name": "Fundacja Pomocna Dłoń",
+      "tax_number": null,
+      "total_net_amount": 100.00,
+      "total_tax_amount": 0.00,
+      "amount": 100.00,
+      "currency": "PLN",
+      "issue_date": null,
+      "due_date": null
+    },
+    {
+      "number": "FV/ERROR/123",
+      "client_name": "",
+      "seller_name": "Nowak i Wspólnicy",
+      "tax_number": "",
+      "total_net_amount": 800.00,
+      "total_tax_amount": 184.00,
+      "amount": 984.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-04",
+      "due_date": "2024-05-07"
+    },
+    {
+      "number": "FV/2024/05/006",
+      "client_name": "BetaTech Sp. z o.o.",
+      "seller_name": "GreenIT Solutions",
+      "tax_number": "PL7894561230",
+      "total_net_amount": 1500.00,
+      "total_tax_amount": 345.00,
+      "amount": 1845.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-05",
+      "due_date": "2024-05-12"
+    },
+    {
+      "number": "FV/2024/05/007",
+      "client_name": "Joanna B.",
+      "seller_name": "Studio Graficzne Piksel",
+      "tax_number": "",
+      "total_net_amount": 500.00,
+      "total_tax_amount": 115.00,
+      "amount": 615.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-06",
+      "due_date": "2024-05-13"
+    },
+    {
+      "number": "F/05/008",
+      "client_name": "Fundacja Wsparcia Edukacji",
+      "seller_name": "Print&Go",
+      "tax_number": null,
+      "total_net_amount": 250.00,
+      "total_tax_amount": 0.00,
+      "amount": 250.00,
+      "currency": "GBP",
+      "issue_date": "2024-04-28",
+      "due_date": "2024-05-10"
+    },
+    {
+      "number": "FV/2024/05/009",
+      "client_name": "Tomasz N.",
+      "seller_name": "Księgowość i Ty",
+      "tax_number": "",
+      "total_net_amount": 120.00,
+      "total_tax_amount": 27.60,
+      "amount": 147.60,
+      "currency": "PLN",
+      "issue_date": "2024-05-03",
+      "due_date": null
+    },
+    {
+      "number": "FV/2024/05/010",
+      "client_name": "",
+      "seller_name": "BestTools",
+      "tax_number": "PL4563217890",
+      "total_net_amount": 3000.00,
+      "total_tax_amount": 690.00,
+      "amount": 3690.00,
+      "currency": "EUR",
+      "issue_date": "2024-05-01",
+      "due_date": "2024-05-10"
+    },
+    {
+      "number": "FV/2024/05/011",
+      "client_name": "Nowak Sp. z o.o.",
+      "seller_name": "TechStore",
+      "tax_number": "PL6572938471",
+      "total_net_amount": 2000.00,
+      "total_tax_amount": 460.00,
+      "amount": 2460.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-05",
+      "due_date": "2024-05-12"
+    },
+    {
+      "number": "FV/2024/05/012",
+      "client_name": "Katarzyna D.",
+      "seller_name": "ProStudio",
+      "tax_number": "",
+      "total_net_amount": 320.00,
+      "total_tax_amount": 0.00,
+      "amount": 320.00,
+      "currency": "EUR",
+      "issue_date": "2024-05-03",
+      "due_date": "2024-05-10"
+    },
+    {
+      "number": "FV-2024/05/013",
+      "client_name": "Biuro Usług ABC",
+      "seller_name": "Biuromax",
+      "tax_number": "PL1111111111",
+      "total_net_amount": 899.99,
+      "total_tax_amount": 206.00,
+      "amount": 1105.99,
+      "currency": "PLN",
+      "issue_date": "2024-05-06",
+      "due_date": "2024-05-20"
+    },
+    {
+      "number": "FV/2024/05/014",
+      "client_name": "",
+      "seller_name": "StartupOne",
+      "tax_number": "PL3334445556",
+      "total_net_amount": 1000.00,
+      "total_tax_amount": 230.00,
+      "amount": 1230.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-01",
+      "due_date": ""
+    },
+    {
+      "number": "FV/2024/05/015",
+      "client_name": "John Smith",
+      "seller_name": "EuroConsulting",
+      "tax_number": "DE0987654321",
+      "total_net_amount": 1500.00,
+      "total_tax_amount": 0.00,
+      "amount": 1500.00,
+      "currency": "EUR",
+      "issue_date": "2024-05-04",
+      "due_date": "2024-05-11"
+    },
+    {
+      "number": "F/2024-XYZ/016",
+      "client_name": "Zenek Sp. z o.o.",
+      "seller_name": "AgroTech",
+      "tax_number": "PL4455667788",
+      "total_net_amount": 1800.00,
+      "total_tax_amount": 414.00,
+      "amount": 2214.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-07",
+      "due_date": "2024-05-21"
+    },
+    {
+      "number": "F2024/05/017",
+      "client_name": "Maria D.",
+      "seller_name": "Sklepik",
+      "tax_number": "",
+      "total_net_amount": 100.00,
+      "total_tax_amount": 23.00,
+      "amount": 123.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-02",
+      "due_date": "2024-05-05"
+    },
+    {
+      "number": "",
+      "client_name": "Nieznany Odbiorca",
+      "seller_name": "InnaFirma",
+      "tax_number": "PL0000000000",
+      "total_net_amount": 500.00,
+      "total_tax_amount": 115.00,
+      "amount": 615.00,
+      "currency": "USD",
+      "issue_date": "2024-04-30",
+      "due_date": "2024-05-07"
+    },
+    {
+      "number": "FV/24/05/018",
+      "client_name": "Józef K.",
+      "seller_name": "AutoSerwis",
+      "tax_number": "PL9988776655",
+      "total_net_amount": 300.00,
+      "total_tax_amount": 69.00,
+      "amount": 369.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-03",
+      "due_date": "2024-05-20"
+    },
+    {
+      "number": "FV 2024 05 019",
+      "client_name": "BestSoft Sp. z o.o.",
+      "seller_name": "Komputronik",
+      "tax_number": "PL2221113330",
+      "total_net_amount": 4000.00,
+      "total_tax_amount": 920.00,
+      "amount": 4920.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-06",
+      "due_date": "2024-05-13"
+    },
+    {
+      "number": "FV-INT-2024-001",
+      "client_name": "Global Export Ltd.",
+      "seller_name": "TechPol Sp. z o.o.",
+      "tax_number": "PL1239874560",
+      "total_net_amount": 4500.00,
+      "total_tax_amount": 1035.00,
+      "amount": 5535.00,
+      "currency": "EUR",
+      "issue_date": "2024-05-01",
+      "due_date": "2024-05-15"
+    },
+    {
+      "number": "FV-ERROR/XYZ",
+      "client_name": "Nieznany Klient",
+      "seller_name": "Sprzedaż Detaliczna",
+      "tax_number": "",
+      "total_net_amount": 0.00,
+      "total_tax_amount": 0.00,
+      "amount": 0.00,
+      "currency": "PLN",
+      "issue_date": "",
+      "due_date": ""
+    },
+    {
+      "number": "FV#2024#SPECIAL",
+      "client_name": "Zygmunt Brzoza",
+      "seller_name": "Firma Z.B.",
+      "tax_number": "PL5558887774",
+      "total_net_amount": 750.00,
+      "total_tax_amount": 172.50,
+      "amount": 922.50,
+      "currency": "PLN",
+      "issue_date": "2024-04-25",
+      "due_date": "2024-05-10"
+    },
+    {
+      "number": "INV-98765",
+      "client_name": "Creative Minds",
+      "seller_name": "DesignTech",
+      "tax_number": "PL6669990001",
+      "total_net_amount": 3300.00,
+      "total_tax_amount": 759.00,
+      "amount": 4059.00,
+      "currency": "USD",
+      "issue_date": "2024-04-20",
+      "due_date": "2024-05-01"
+    },
+    {
+      "number": "FV-B2C-0424",
+      "client_name": "Anna Maria",
+      "seller_name": "E-Sklep.pl",
+      "tax_number": "",
+      "total_net_amount": 129.99,
+      "total_tax_amount": 29.90,
+      "amount": 159.89,
+      "currency": "PLN",
+      "issue_date": "2024-04-28",
+      "due_date": "2024-05-05"
+    },
+    {
+      "number": "FV-2024/998",
+      "client_name": "4You Marketing",
+      "seller_name": "PixelStorm",
+      "tax_number": "PL7771113339",
+      "total_net_amount": 2200.00,
+      "total_tax_amount": 506.00,
+      "amount": 2706.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-11",
+      "due_date": "2024-04-25"
+    },
+    {
+      "number": "INV-☂-0424",
+      "client_name": "Umbrella Corp.",
+      "seller_name": "BioSafe Ltd.",
+      "tax_number": "PL8886664441",
+      "total_net_amount": 9999.99,
+      "total_tax_amount": 2299.99,
+      "amount": 12299.98,
+      "currency": "USD",
+      "issue_date": "2024-04-10",
+      "due_date": "2024-04-30"
+    },
+    {
+      "number": "FV-KLIENT-BRAK",
+      "client_name": "",
+      "seller_name": "InvoTech",
+      "tax_number": "",
+      "total_net_amount": 300.00,
+      "total_tax_amount": 69.00,
+      "amount": 369.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-14",
+      "due_date": "2024-04-25"
+    },
+    {
+      "number": "2024-04-ZAKUP-B2C",
+      "client_name": "Tomasz Kowal",
+      "seller_name": "RTVMarket.pl",
+      "tax_number": "",
+      "total_net_amount": 540.00,
+      "total_tax_amount": 124.20,
+      "amount": 664.20,
+      "currency": "PLN",
+      "issue_date": "2024-04-15",
+      "due_date": "2024-04-27"
+    },
+    {
+      "number": "FV-ERROR-001",
+      "client_name": null,
+      "seller_name": null,
+      "tax_number": null,
+      "total_net_amount": 0,
+      "total_tax_amount": 0,
+      "amount": 0,
+      "currency": "USD",
+      "issue_date": null,
+      "due_date": null
+    },
+    {
+      "number": "FV-2024/101",
+      "client_name": "NextGen Software",
+      "seller_name": "CodeHub Sp. z o.o.",
+      "tax_number": "PL1231231231",
+      "total_net_amount": 4000.00,
+      "total_tax_amount": 920.00,
+      "amount": 4920.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-05",
+      "due_date": "2024-04-20"
+    },
+    {
+      "number": "FV-2024/102",
+      "client_name": "GreenTech Polska",
+      "seller_name": "SolarTrade",
+      "tax_number": "PL9292939393",
+      "total_net_amount": 2000.00,
+      "total_tax_amount": 460.00,
+      "amount": 2460.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-07",
+      "due_date": "2024-04-21"
+    },
+    {
+      "number": "FV-2024/103",
+      "client_name": "Blue Ocean Ltd.",
+      "seller_name": "AquaTech",
+      "tax_number": "PL8765432109",
+      "total_net_amount": 1750.00,
+      "total_tax_amount": 402.50,
+      "amount": 2152.50,
+      "currency": "PLN",
+      "issue_date": "2024-04-08",
+      "due_date": "2024-04-25"
+    },
+    {
+      "number": "FV-2024/104",
+      "client_name": "Helios Design",
+      "seller_name": "Printify",
+      "tax_number": "PL5554443332",
+      "total_net_amount": 950.00,
+      "total_tax_amount": 218.50,
+      "amount": 1168.50,
+      "currency": "PLN",
+      "issue_date": "2024-04-10",
+      "due_date": "2024-04-22"
+    },
+    {
+      "number": "FV-2024/105",
+      "client_name": "Medica Centrum",
+      "seller_name": "PharmaTech",
+      "tax_number": "PL3332221110",
+      "total_net_amount": 3000.00,
+      "total_tax_amount": 690.00,
+      "amount": 3690.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-11",
+      "due_date": "2024-04-26"
+    },
+    {
+      "number": "FV-2024/106",
+      "client_name": "Pixel Studio",
+      "seller_name": "Design Factory",
+      "tax_number": "PL4567893210",
+      "total_net_amount": 1250.00,
+      "total_tax_amount": 287.50,
+      "amount": 1537.50,
+      "currency": "PLN",
+      "issue_date": "2024-04-12",
+      "due_date": "2024-04-27"
+    },
+    {
+      "number": "FV-2024/107",
+      "client_name": "Logix Systems",
+      "seller_name": "SoftService",
+      "tax_number": "PL1029384756",
+      "total_net_amount": 2100.00,
+      "total_tax_amount": 483.00,
+      "amount": 2583.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-13",
+      "due_date": "2024-04-25"
+    },
+    {
+      "number": "FV-2024/108",
+      "client_name": "ABC Logistics",
+      "seller_name": "TransNet",
+      "tax_number": "PL5556667778",
+      "total_net_amount": 3100.00,
+      "total_tax_amount": 713.00,
+      "amount": 3813.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-14",
+      "due_date": "2024-04-28"
+    },
+    {
+      "number": "FV-2024/109",
+      "client_name": "Home&Co",
+      "seller_name": "Domino Meble",
+      "tax_number": "PL9090909090",
+      "total_net_amount": 1700.00,
+      "total_tax_amount": 391.00,
+      "amount": 2091.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-15",
+      "due_date": "2024-04-30"
+    },
+    {
+      "number": "FV-2024/110",
+      "client_name": "Biuro360",
+      "seller_name": "OfficeSupplies",
+      "tax_number": "PL3141592653",
+      "total_net_amount": 950.00,
+      "total_tax_amount": 218.50,
+      "amount": 1168.50,
+      "currency": "PLN",
+      "issue_date": "2024-04-16",
+      "due_date": "2024-05-01"
+    },
+    {
+      "number": "FV-2024/111",
+      "client_name": "SmartDev",
+      "seller_name": "CodeWorks",
+      "tax_number": "PL1231231230",
+      "total_net_amount": 1600.00,
+      "total_tax_amount": 368.00,
+      "amount": 1968.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-17",
+      "due_date": "2024-05-01"
+    },
+    {
+      "number": "FV-2024/112",
+      "client_name": "CityBooks",
+      "seller_name": "Papiernia Kraków",
+      "tax_number": "PL2233445566",
+      "total_net_amount": 850.00,
+      "total_tax_amount": 195.50,
+      "amount": 1045.50,
+      "currency": "PLN",
+      "issue_date": "2024-04-18",
+      "due_date": "2024-04-30"
+    },
+    {
+      "number": "FV-2024/113",
+      "client_name": "GreenFarm",
+      "seller_name": "AgroTech",
+      "tax_number": "PL6655443322",
+      "total_net_amount": 3200.00,
+      "total_tax_amount": 736.00,
+      "amount": 3936.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-19",
+      "due_date": "2024-05-05"
+    },
+    {
+      "number": "FV-2024/114",
+      "client_name": "AutoFix",
+      "seller_name": "PartsGarage",
+      "tax_number": "PL7778889990",
+      "total_net_amount": 1425.00,
+      "total_tax_amount": 327.75,
+      "amount": 1752.75,
+      "currency": "PLN",
+      "issue_date": "2024-04-20",
+      "due_date": "2024-05-03"
+    },
+    {
+      "number": "FV-2024/115",
+      "client_name": "CoffeeWorld",
+      "seller_name": "FreshRoast",
+      "tax_number": "PL9090901234",
+      "total_net_amount": 675.00,
+      "total_tax_amount": 155.25,
+      "amount": 830.25,
+      "currency": "PLN",
+      "issue_date": "2024-04-21",
+      "due_date": "2024-05-04"
+    },
+    {
+      "number": "FV-2024/116",
+      "client_name": "NeoMedia",
+      "seller_name": "AdGroup Sp. z o.o.",
+      "tax_number": "PL1010101010",
+      "total_net_amount": 2400.00,
+      "total_tax_amount": 552.00,
+      "amount": 2952.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-22",
+      "due_date": "2024-05-06"
+    },
+    {
+      "number": "FV-2024/117",
+      "client_name": "Fabryka Mebli Nowak",
+      "seller_name": "WoodMaster",
+      "tax_number": "PL1122334455",
+      "total_net_amount": 1800.00,
+      "total_tax_amount": 414.00,
+      "amount": 2214.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-23",
+      "due_date": "2024-05-07"
+    },
+    {
+      "number": "FV-2024/118",
+      "client_name": "GastroPol",
+      "seller_name": "AGD i Serwis",
+      "tax_number": "PL5566778899",
+      "total_net_amount": 950.00,
+      "total_tax_amount": 218.50,
+      "amount": 1168.50,
+      "currency": "PLN",
+      "issue_date": "2024-04-24",
+      "due_date": "2024-05-08"
+    },
+    {
+      "number": "FV-2024/119",
+      "client_name": "Wirtualna Szkoła",
+      "seller_name": "EduTech",
+      "tax_number": "PL9988776655",
+      "total_net_amount": 3000.00,
+      "total_tax_amount": 690.00,
+      "amount": 3690.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-25",
+      "due_date": "2024-05-10"
+    },
+    {
+      "number": "FV-2024/120",
+      "client_name": "FotoPress",
+      "seller_name": "Printify",
+      "tax_number": "PL3332221110",
+      "total_net_amount": 1200.00,
+      "total_tax_amount": 276.00,
+      "amount": 1476.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-26",
+      "due_date": "2024-05-11"
+    },
+    {
+      "number": "FV/2024/130",
+      "client_name": "Green Solutions",
+      "seller_name": "EcoEnergy Polska",
+      "tax_number": "PL7854123690",
+      "total_net_amount": 4100.00,
+      "total_tax_amount": 943.00,
+      "amount": 5043.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-27",
+      "due_date": "2024-05-12"
+    },
+    {
+      "number": "FV/2024/131",
+      "client_name": "Studio Marek",
+      "seller_name": "Design&Print",
+      "tax_number": "PL1019181010",
+      "total_net_amount": 990.00,
+      "total_tax_amount": 227.70,
+      "amount": 1217.70,
+      "currency": "PLN",
+      "issue_date": "2024-04-28",
+      "due_date": "2024-05-13"
+    },
+    {
+      "number": "FV/2024/132",
+      "client_name": "Tech Solutions",
+      "seller_name": "NetX",
+      "tax_number": "PL4044044040",
+      "total_net_amount": 2500.00,
+      "total_tax_amount": 575.00,
+      "amount": 3075.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-29",
+      "due_date": "2024-05-14"
+    },
+    {
+      "number": "FV/2024/133",
+      "client_name": "Dom i Ogród Sp. z o.o.",
+      "seller_name": "Budownictwo24",
+      "tax_number": "PL9900880077",
+      "total_net_amount": 1750.00,
+      "total_tax_amount": 402.50,
+      "amount": 2152.50,
+      "currency": "PLN",
+      "issue_date": "2024-04-30",
+      "due_date": "2024-05-15"
+    },
+    {
+      "number": "FV/2024/134",
+      "client_name": "Szybki Serwis",
+      "seller_name": "AutoFix",
+      "tax_number": "PL5553337771",
+      "total_net_amount": 1200.00,
+      "total_tax_amount": 276.00,
+      "amount": 1476.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-01",
+      "due_date": "2024-05-16"
+    },
+    {
+      "number": "FV/2024/135",
+      "client_name": "MEGA Sp. z o.o.",
+      "seller_name": "TechFarm",
+      "tax_number": "PL8888888888",
+      "total_net_amount": 1800.00,
+      "total_tax_amount": 414.00,
+      "amount": 2214.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-02",
+      "due_date": "2024-05-17"
+    },
+    {
+      "number": "FV/2024/136",
+      "client_name": "Kwiaciarnia Róża",
+      "seller_name": "Fresh Flowers Co",
+      "tax_number": "PL7771231231",
+      "total_net_amount": 540.00,
+      "total_tax_amount": 124.20,
+      "amount": 664.20,
+      "currency": "PLN",
+      "issue_date": "2024-05-03",
+      "due_date": "2024-05-15"
+    },
+    {
+      "number": "FV/2024/137",
+      "client_name": "Tomasz Nowak",
+      "seller_name": "InstalPro",
+      "tax_number": "PL6665554443",
+      "total_net_amount": 950.00,
+      "total_tax_amount": 218.50,
+      "amount": 1168.50,
+      "currency": "PLN",
+      "issue_date": "2024-05-04",
+      "due_date": "2024-05-18"
+    },
+    {
+      "number": "FV/2024/138",
+      "client_name": "AgroMarket",
+      "seller_name": "Rolmasz",
+      "tax_number": "PL1231231230",
+      "total_net_amount": 3000.00,
+      "total_tax_amount": 690.00,
+      "amount": 3690.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-05",
+      "due_date": "2024-05-19"
+    },
+    {
+      "number": "FV/2024/139",
+      "client_name": "BlueSoft SA",
+      "seller_name": "CodeCraft",
+      "tax_number": "PL1010101010",
+      "total_net_amount": 4200.00,
+      "total_tax_amount": 966.00,
+      "amount": 5166.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-06",
+      "due_date": "2024-05-21"
+    },
+    {
+      "number": "FV/2024/140",
+      "client_name": "Creative Studio",
+      "seller_name": "PixelHouse",
+      "tax_number": "PL8883334445",
+      "total_net_amount": 1900.00,
+      "total_tax_amount": 437.00,
+      "amount": 2337.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-07",
+      "due_date": "2024-05-22"
+    },
+    {
+      "number": "FV/2024/141",
+      "client_name": "Alfa i Omega",
+      "seller_name": "LogiSoft",
+      "tax_number": "PL1212121212",
+      "total_net_amount": 300.00,
+      "total_tax_amount": 69.00,
+      "amount": 369.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-08",
+      "due_date": "2024-05-20"
+    },
+    {
+      "number": "FV/2024/142",
+      "client_name": "Joanna Bielska",
+      "seller_name": "ArtHouse",
+      "tax_number": "",
+      "total_net_amount": 400.00,
+      "total_tax_amount": 92.00,
+      "amount": 492.00,
+      "currency": "EUR",
+      "issue_date": "2024-05-08",
+      "due_date": "2024-05-19"
+    },
+    {
+      "number": "FV/2024/143",
+      "client_name": "X-Trade S.A.",
+      "seller_name": "MegaTrans",
+      "tax_number": "PL9999999999",
+      "total_net_amount": 9500.00,
+      "total_tax_amount": 2185.00,
+      "amount": 11685.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-09",
+      "due_date": "2024-05-24"
+    },
+    {
+      "number": "FV/2024/144",
+      "client_name": "Fundacja Zielona Droga",
+      "seller_name": "BioClean",
+      "tax_number": "PL2020202020",
+      "total_net_amount": 1000.00,
+      "total_tax_amount": 230.00,
+      "amount": 1230.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-10",
+      "due_date": "2024-05-25"
+    },
+    {
+      "number": "FV/2024/145",
+      "client_name": "TechNova Sp. z o.o.",
+      "seller_name": "DataFlow",
+      "tax_number": "PL3330001112",
+      "total_net_amount": 1100.00,
+      "total_tax_amount": 253.00,
+      "amount": 1353.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-01",
+      "due_date": "2024-05-15"
+    },
+    {
+      "number": "FV/2024/146",
+      "client_name": "BlueOcean",
+      "seller_name": "Oceanic",
+      "tax_number": "PL1237894560",
+      "total_net_amount": 499.99,
+      "total_tax_amount": 114.99,
+      "amount": 614.98,
+      "currency": "USD",
+      "issue_date": "2024-05-03",
+      "due_date": "2024-05-18"
+    },
+    {
+      "number": "FV/2024/147",
+      "client_name": "Stacja Benzynowa MAX",
+      "seller_name": "FuelTech",
+      "tax_number": "",
+      "total_net_amount": 950.00,
+      "total_tax_amount": 218.50,
+      "amount": 1168.50,
+      "currency": "PLN",
+      "issue_date": "2024-05-02",
+      "due_date": "2024-05-16"
+    },
+    {
+      "number": "FV/2024/148",
+      "client_name": "Jacek Wójcik",
+      "seller_name": "Studio FotoJacek",
+      "tax_number": "",
+      "total_net_amount": 200.00,
+      "total_tax_amount": 46.00,
+      "amount": 246.00,
+      "currency": "EUR",
+      "issue_date": "2024-05-04",
+      "due_date": "2024-05-10"
+    },
+    {
+      "number": "FV/2024/149",
+      "client_name": "Mała Gastronomia",
+      "seller_name": "KitchenPro",
+      "tax_number": "PL4567891230",
+      "total_net_amount": 700.00,
+      "total_tax_amount": 161.00,
+      "amount": 861.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-05",
+      "due_date": "2024-05-20"
+    },
+    {
+      "number": "FV/2024/150",
+      "client_name": "Biuro Rachunkowe PRO",
+      "seller_name": "Firma X",
+      "tax_number": "PL6572938471",
+      "total_net_amount": 900.00,
+      "total_tax_amount": 207.00,
+      "amount": 1107.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-01",
+      "due_date": "2024-05-15"
+    },
+    {
+      "number": "FV/2024/151",
+      "client_name": "Zielony Sklepik",
+      "seller_name": "EkoFood",
+      "tax_number": "PL9876543210",
+      "total_net_amount": 650.00,
+      "total_tax_amount": 149.50,
+      "amount": 799.50,
+      "currency": "PLN",
+      "issue_date": "2024-05-02",
+      "due_date": "2024-05-17"
+    },
+    {
+      "number": "FV/2024/152",
+      "client_name": "John Smith",
+      "seller_name": "PhotoStudio",
+      "tax_number": "",
+      "total_net_amount": 300.00,
+      "total_tax_amount": 69.00,
+      "amount": 369.00,
+      "currency": "USD",
+      "issue_date": "2024-05-04",
+      "due_date": "2024-05-14"
+    },
+    {
+      "number": "FV/2024/153",
+      "client_name": "ITGroup sp.z o.o.",
+      "seller_name": "SoftWorld",
+      "tax_number": "PL5432167890",
+      "total_net_amount": 1500.00,
+      "total_tax_amount": 345.00,
+      "amount": 1845.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-03",
+      "due_date": "2024-05-18"
+    },
+    {
+      "number": "FV/2024/154",
+      "client_name": "Janina Kowalczyk",
+      "seller_name": "BeautyLine",
+      "tax_number": "",
+      "total_net_amount": 220.00,
+      "total_tax_amount": 50.60,
+      "amount": 270.60,
+      "currency": "EUR",
+      "issue_date": "2024-05-05",
+      "due_date": "2024-05-12"
+    },
+    {
+      "number": "FV/2024/200",
+      "client_name": "Kancelaria Adwokacka Nowak",
+      "seller_name": "LexPol",
+      "tax_number": "PL1231231230",
+      "total_net_amount": 1500.00,
+      "total_tax_amount": 345.00,
+      "amount": 1845.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-25",
+      "due_date": "2024-05-10"
+    },
+    {
+      "number": "FV/2024/201",
+      "client_name": "Michał Kowal",
+      "seller_name": "MK Designs",
+      "tax_number": "",
+      "total_net_amount": 400.00,
+      "total_tax_amount": 92.00,
+      "amount": 492.00,
+      "currency": "PLN",
+      "issue_date": "2024-04-28",
+      "due_date": "2024-05-13"
+    },
+    {
+      "number": "FV/2024/202",
+      "client_name": "EcoFarm",
+      "seller_name": "AgroTrade",
+      "tax_number": "PL4564564560",
+      "total_net_amount": 1000.00,
+      "total_tax_amount": 230.00,
+      "amount": 1230.00,
+      "currency": "EUR",
+      "issue_date": "2024-04-26",
+      "due_date": "2024-05-09"
+    },
+    {
+      "number": "FV/2024/203",
+      "client_name": "Karolina Z.",
+      "seller_name": "Yoga Life",
+      "tax_number": "",
+      "total_net_amount": 120.00,
+      "total_tax_amount": 27.60,
+      "amount": 147.60,
+      "currency": "PLN",
+      "issue_date": "2024-04-29",
+      "due_date": "2024-05-14"
+    },
+    {
+      "number": "FV/2024/204",
+      "client_name": "GlobalTech Ltd.",
+      "seller_name": "DevMasters",
+      "tax_number": "GB998877665",
+      "total_net_amount": 2500.00,
+      "total_tax_amount": 575.00,
+      "amount": 3075.00,
+      "currency": "USD",
+      "issue_date": "2024-04-27",
+      "due_date": "2024-05-11"
+    },
+    {
+      "number": "FV/2024/300",
+      "client_name": "PHU Metal-Bud",
+      "seller_name": "TechStal",
+      "tax_number": "PL9911223344",
+      "total_net_amount": 1100.00,
+      "total_tax_amount": 253.00,
+      "amount": 1353.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-01",
+      "due_date": "2024-05-15"
+    },
+    {
+      "number": "FV/2024/301",
+      "client_name": "Zofia Nowicka",
+      "seller_name": "Beauty & Spa",
+      "tax_number": "",
+      "total_net_amount": 210.00,
+      "total_tax_amount": 48.30,
+      "amount": 258.30,
+      "currency": "PLN",
+      "issue_date": "2024-05-03",
+      "due_date": "2024-05-17"
+    },
+    {
+      "number": "FV/2024/302",
+      "client_name": "AutoFix",
+      "seller_name": "Mechanika Pro",
+      "tax_number": "PL5556667778",
+      "total_net_amount": 800.00,
+      "total_tax_amount": 184.00,
+      "amount": 984.00,
+      "currency": "PLN",
+      "issue_date": "2024-05-02",
+      "due_date": "2024-05-18"
+    },
+    {
+      "number": "FV/2024/303",
+      "client_name": "Joanna K.",
+      "seller_name": "OnlineCoach",
+      "tax_number": "",
+      "total_net_amount": 450.00,
+      "total_tax_amount": 103.50,
+      "amount": 553.50,
+      "currency": "EUR",
+      "issue_date": "2024-05-04",
+      "due_date": "2024-05-20"
+    },
+    {
+      "number": "FV/2024/304",
+      "client_name": "InterCloud Sp. z o.o.",
+      "seller_name": "NetVision",
+      "tax_number": "PL3334445556",
+      "total_net_amount": 2000.00,
+      "total_tax_amount": 460.00,
+      "amount": 2460.00,
+      "currency": "USD",
+      "issue_date": "2024-05-05",
+      "due_date": "2024-05-19"
+    },
+    {
+      "number": "FV/2024/305",
+      "client_name": "Nowak i Syn",
+      "seller_name": "Elektronik24",
+      "tax_number": "PL1234567890",
+      "total_net_amount": 850.00,
+      "total_tax_amount": 195.50,
+      "amount": 1045.50,
+      "currency": "PLN",
+      "issue_date": "2024-05-06",
+      "due_date": "2024-05-20"
+    },
+    {
+      "number": "FV/2024/306",
+      "client_name": "Magdalena Bąk",
+      "seller_name": "EduMentor",
+      "tax_number": "",
+      "total_net_amount": 350.00,
+      "total_tax_amount": 80.50,
+      "amount": 430.50,
+      "currency": "PLN",
+      "issue_date": "2024-05-07",
+      "due_date": "2024-05-21"
+    },
+    {
+      "number": "FV/2024/307",
+      "client_name": "Technologix Sp. z o.o.",
+      "seller_name": "SoftHouse",
+      "tax_number": "PL9988776655",
+      "total_net_amount": 5000.00,
+      "total_tax_amount": 1150.00,
+      "amount": 6150.00,
+      "currency": "USD",
+      "issue_date": "2024-05-08",
+      "due_date": "2024-05-22"
+    },
+    {
+      "number": "FV/2024/308",
+      "client_name": "Krzysztof Ziel.",
+      "seller_name": "FitOnline",
+      "tax_number": "",
+      "total_net_amount": 120.00,
+      "total_tax_amount": 27.60,
+      "amount": 147.60,
+      "currency": "PLN",
+      "issue_date": "2024-05-09",
+      "due_date": "2024-05-23"
+    },
+    {
+      "number": "FV/2024/309",
+      "client_name": "Inwest-Bud",
+      "seller_name": "Budex S.A.",
+      "tax_number": "PL3332221110",
+      "total_net_amount": 8700.00,
+      "total_tax_amount": 2001.00,
+      "amount": 10701.00,
+      "currency": "EUR",
+      "issue_date": "2024-05-10",
+      "due_date": "2024-05-24"
+    }
+  ],
+  "transactions": [
+    {
+      "sender_name": "Jan Kowalski",
+      "amount": 1230.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-05",
+      "description": "Opłata FV/2024/04/001"
+    },
+    {
+      "sender_name": "Anna Nowak",
+      "amount": 1845.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-09",
+      "description": "FV/2024/04/002"
+    },
+    {
+      "sender_name": "Jan Nowak",
+      "amount": 615.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-10",
+      "description": "FV/2024/04/003 płatność"
+    },
+    {
+      "sender_name": "Ewa Malinowska",
+      "amount": 2952.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-12",
+      "description": "FV/2024/04/004 opłacona"
+    },
+    {
+      "sender_name": "Marek Kowalski",
+      "amount": 369.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-18",
+      "description": "Przelew FV/2024/04/005"
+    },
+    {
+      "sender_name": "Jan Kowalski",
+      "amount": 1230.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-25",
+      "description": "FV/2024/05/001 – zapłacono przed wystawieniem"
+    },
+    {
+      "sender_name": "A. Nowak",
+      "amount": 1845.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-11",
+      "description": "Płatność dla Anny Nowak FV/2024/05/002"
+    },
+    {
+      "sender_name": "Ewa Malinowska",
+      "amount": 2459.99,
+      "currency": "PLN",
+      "transfer_date": "2024-05-20",
+      "description": "FV/2024/05/003 – błąd 1 gr"
+    },
+    {
+      "sender_name": "Kowalski Jan",
+      "amount": 1230.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-05",
+      "description": "FV/2024/05/001 opłata"
+    },
+    {
+      "sender_name": "TechMasters",
+      "amount": 2460.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-14",
+      "description": "Faktura za hosting"
+    },
+    {
+      "sender_name": "Alpha Logistics Sp. z o.o.",
+      "amount": 5166.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-13",
+      "description": "Opłata FV/2024/B2B/001 za usługi SpeedNet"
+    },
+    {
+      "sender_name": "NovaTech",
+      "amount": 9840.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-19",
+      "description": "FV/2024/B2B/002 - infrastruktura cloud"
+    },
+    {
+      "sender_name": "GREENBUILD S.C.",
+      "amount": 11685.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-22",
+      "description": "FV/2024/B2B/003 - płatność za energię"
+    },
+    {
+      "sender_name": "SpeedNet SA",
+      "amount": 5166.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-14",
+      "description": "FV/2024/B2B/001 - zapłata za kwiecień"
+    },
+    {
+      "sender_name": "Jan N.",
+      "amount": 123.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-26",
+      "description": ""
+    },
+    {
+      "sender_name": "Blue Corporation",
+      "amount": 615.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-20",
+      "description": "Opłata za fakturę"
+    },
+    {
+      "sender_name": "",
+      "amount": 0.00,
+      "currency": "PLN",
+      "transfer_date": "",
+      "description": ""
+    },
+    {
+      "sender_name": "M. Zielińska",
+      "amount": 246.00,
+      "currency": "USD",
+      "transfer_date": "2024-05-05",
+      "description": "FV/2024/MIX/004 opóźnione"
+    },
+    {
+      "sender_name": "J. Kowalski",
+      "amount": 4920.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-14",
+      "description": "Faktura FV/2024/PRO/101 SoftVision ✅"
+    },
+    {
+      "sender_name": "Grupa Handlowa PLATEK",
+      "amount": 2214.01,
+      "currency": "PLN",
+      "transfer_date": "2024-04-17",
+      "description": "FV-04/2024-52 (opłata)"
+    },
+    {
+      "sender_name": "A. LIS",
+      "amount": 393.60,
+      "currency": "PLN",
+      "transfer_date": "2024-04-16",
+      "description": "FV 2024/INV/907"
+    },
+    {
+      "sender_name": "Zakład Rem. Ł. Nowak",
+      "amount": 1845.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-19",
+      "description": "FV-2024-0011"
+    },
+    {
+      "sender_name": "M. Wiśniewska",
+      "amount": 246.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-22",
+      "description": "INV/2024/204 opłacenie"
+    },
+    {
+      "sender_name": "Qube Design",
+      "amount": 12299.99,
+      "currency": "PLN",
+      "transfer_date": "2024-04-22",
+      "description": "FV/04/2024/A33"
+    },
+    {
+      "sender_name": "ACME Corp",
+      "amount": 2460.00,
+      "currency": "USD",
+      "transfer_date": "2024-05-03",
+      "description": "Opłacona faktura 001/05 dla Xpress"
+    },
+    {
+      "sender_name": "Adam Kowalski",
+      "amount": 369.00,
+      "currency": "PLN",
+      "transfer_date": null,
+      "description": "ZA COŚ"
+    },
+    {
+      "sender_name": "XYZ Invsmt",
+      "amount": 5000.00,
+      "currency": "EUR",
+      "transfer_date": "2024-05-06",
+      "description": "Płatność FV 2024 05 003"
+    },
+    {
+      "sender_name": "Zofia N.",
+      "amount": 100.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-29",
+      "description": "Wspomagam działalność"
+    },
+    {
+      "sender_name": "",
+      "amount": 984.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-05",
+      "description": "FV/ERROR/123 fakturka dla Nowak"
+    },
+    {
+      "sender_name": "BetaTech",
+      "amount": 1845.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-06",
+      "description": "FV 2024/05/006 - GreenIT"
+    },
+    {
+      "sender_name": "Joanna B.",
+      "amount": 615.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-11",
+      "description": "za usługę graficzną FV/2024/05/007"
+    },
+    {
+      "sender_name": "Fundacja Wsparcia Edukacji",
+      "amount": 250.00,
+      "currency": "GBP",
+      "transfer_date": null,
+      "description": "Płatność edukacja"
+    },
+    {
+      "sender_name": "Nieznany",
+      "amount": 147.60,
+      "currency": "PLN",
+      "transfer_date": "2024-05-08",
+      "description": "FV_2024_05_009"
+    },
+    {
+      "sender_name": "Firma A",
+      "amount": 3690.00,
+      "currency": "EUR",
+      "transfer_date": "2024-05-07",
+      "description": "Narzędzia i sprzęt, FV: FV/2024/05/010"
+    },
+    {
+      "sender_name": "Nowak Sp. z o.o.",
+      "amount": 2460.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-12",
+      "description": "FV/2024/05/011 zapłata"
+    },
+    {
+      "sender_name": "K. D.",
+      "amount": 320.00,
+      "currency": "EUR",
+      "transfer_date": "2024-05-08",
+      "description": "Studio ProStudio faktura 12"
+    },
+    {
+      "sender_name": "ABC Usługi",
+      "amount": 1105.99,
+      "currency": "PLN",
+      "transfer_date": "2024-05-15",
+      "description": "FV-2024/05/013 - Biuromax"
+    },
+    {
+      "sender_name": "StartupOne",
+      "amount": 1230.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-02",
+      "description": "FV_2024_05_014"
+    },
+    {
+      "sender_name": "John Smith",
+      "amount": 1500.00,
+      "currency": "EUR",
+      "transfer_date": "2024-05-10",
+      "description": "EU invoice FV/2024/05/015"
+    },
+    {
+      "sender_name": "Zenek",
+      "amount": 2214.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-21",
+      "description": "F/2024-XYZ/016 - zaplata"
+    },
+    {
+      "sender_name": "M. D.",
+      "amount": 123.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-06",
+      "description": "FV_17"
+    },
+    {
+      "sender_name": "InnaFirma",
+      "amount": 615.00,
+      "currency": "USD",
+      "transfer_date": "2024-05-01",
+      "description": "NO NUMBER, USD payment"
+    },
+    {
+      "sender_name": "AutoSerwis",
+      "amount": 369.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-17",
+      "description": "Faktura FV/24/05/018 Józef K."
+    },
+    {
+      "sender_name": "BestSoft Sp. z o.o.",
+      "amount": 4920.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-14",
+      "description": "FV 2024 05 019"
+    },
+    {
+      "sender_name": "GlobalExport",
+      "amount": 5535.00,
+      "currency": "EUR",
+      "transfer_date": "2024-05-14",
+      "description": "Payment for FV-INT-2024-001"
+    },
+    {
+      "sender_name": "unknown",
+      "amount": 0.00,
+      "currency": "PLN",
+      "transfer_date": "",
+      "description": "Brak danych"
+    },
+    {
+      "sender_name": "Zyg. Brzoza",
+      "amount": 922.50,
+      "currency": "PLN",
+      "transfer_date": "2024-05-08",
+      "description": "FV#2024#SPECIAL"
+    },
+    {
+      "sender_name": "Creative Minds Inc.",
+      "amount": 4059.00,
+      "currency": "USD",
+      "transfer_date": "2024-05-04",
+      "description": "INV-98765 Invoice"
+    },
+    {
+      "sender_name": "Anna Maria",
+      "amount": 159.89,
+      "currency": "PLN",
+      "transfer_date": "2024-05-05",
+      "description": "FV-B2C-0424 zakup online"
+    },
+    {
+      "sender_name": "4You MKT",
+      "amount": 2706.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-24",
+      "description": "FV-2024/998 Zrealizowano"
+    },
+    {
+      "sender_name": "U.Corp",
+      "amount": 12299.98,
+      "currency": "USD",
+      "transfer_date": "2024-04-29",
+      "description": "INV-☂-0424 - Payment Received"
+    },
+    {
+      "sender_name": "anonimowy",
+      "amount": 369.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-25",
+      "description": "FV-KLIENT-BRAK"
+    },
+    {
+      "sender_name": "Kowal T.",
+      "amount": 664.20,
+      "currency": "PLN",
+      "transfer_date": "2024-04-26",
+      "description": "Zakup RTV 2024-04-ZAKUP-B2C"
+    },
+    {
+      "sender_name": "",
+      "amount": 0.00,
+      "currency": "",
+      "transfer_date": "",
+      "description": "ERROR"
+    },
+    {
+      "sender_name": "NextGen Software",
+      "amount": 4920.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-18",
+      "description": "Opłata FV-2024/101"
+    },
+    {
+      "sender_name": "GreenTech Polska",
+      "amount": 2460.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-20",
+      "description": "FV-2024/102 SolarTrade"
+    },
+    {
+      "sender_name": "Blue Ocean Ltd.",
+      "amount": 2152.50,
+      "currency": "PLN",
+      "transfer_date": "2024-04-22",
+      "description": "Płatność FV-2024/103"
+    },
+    {
+      "sender_name": "Helios Design",
+      "amount": 1168.50,
+      "currency": "PLN",
+      "transfer_date": "2024-04-19",
+      "description": "FV-2024/104 - opłacona"
+    },
+    {
+      "sender_name": "Medica Centrum",
+      "amount": 3690.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-25",
+      "description": "FV-2024/105 / PharmaTech"
+    },
+    {
+      "sender_name": "Pixel Studio",
+      "amount": 1537.50,
+      "currency": "PLN",
+      "transfer_date": "2024-04-25",
+      "description": "FV-2024/106 Design Factory"
+    },
+    {
+      "sender_name": "Logix Systems",
+      "amount": 2583.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-22",
+      "description": "Płatność FV-2024/107"
+    },
+    {
+      "sender_name": "ABC Logistics",
+      "amount": 3813.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-27",
+      "description": "TransNet FV-2024/108"
+    },
+    {
+      "sender_name": "Home&Co",
+      "amount": 2091.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-29",
+      "description": "FV-2024/109 opłacona"
+    },
+    {
+      "sender_name": "Biuro360",
+      "amount": 1168.50,
+      "currency": "PLN",
+      "transfer_date": "2024-04-30",
+      "description": "FV-2024/110 / OfficeSupplies"
+    },
+    {
+      "sender_name": "SmartDev",
+      "amount": 1968.00,
+      "currency": "PLN",
+      "transfer_date": "2024-04-29",
+      "description": "FV-2024/111 CodeWorks"
+    },
+    {
+      "sender_name": "CityBooks",
+      "amount": 1045.50,
+      "currency": "PLN",
+      "transfer_date": "2024-04-30",
+      "description": "Opłata za FV-2024/112"
+    },
+    {
+      "sender_name": "GreenFarm",
+      "amount": 3936.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-02",
+      "description": "FV-2024/113 AgroTech"
+    },
+    {
+      "sender_name": "AutoFix",
+      "amount": 1752.75,
+      "currency": "PLN",
+      "transfer_date": "2024-05-03",
+      "description": "FV-2024/114 - PartsGarage"
+    },
+    {
+      "sender_name": "CoffeeWorld",
+      "amount": 830.25,
+      "currency": "PLN",
+      "transfer_date": "2024-05-04",
+      "description": "FreshRoast FV-2024/115"
+    },
+    {
+      "sender_name": "NeoMedia",
+      "amount": 2952.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-03",
+      "description": "AdGroup FV-2024/116"
+    },
+    {
+      "sender_name": "Fabryka Mebli Nowak",
+      "amount": 2214.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-07",
+      "description": "FV 2024/117 WoodMaster - opłata"
+    },
+    {
+      "sender_name": "GastroPol",
+      "amount": 1168.50,
+      "currency": "PLN",
+      "transfer_date": "2024-05-06",
+      "description": "FV-2024/118 AGD i Serwis"
+    },
+    {
+      "sender_name": "Wirtualna Szkoła",
+      "amount": 3690.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-10",
+      "description": "FV-2024/119 EduTech"
+    },
+    {
+      "sender_name": "FotoPress",
+      "amount": 1476.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-11",
+      "description": "Printify - opłata FV-2024/120"
+    },
+    {
+      "sender_name": "Green Solutions",
+      "amount": 5043.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-10",
+      "description": "FV EcoEnergy FV/2024/130 zapłata"
+    },
+    {
+      "sender_name": "Studio Marek",
+      "amount": 1217.70,
+      "currency": "PLN",
+      "transfer_date": "2024-05-13",
+      "description": "FV-131 Design&Print"
+    },
+    {
+      "sender_name": "Tech Solutions",
+      "amount": 3075.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-14",
+      "description": "Opłata za FV/2024/132 NetX"
+    },
+    {
+      "sender_name": "Dom i Ogród Sp. z o.o.",
+      "amount": 2152.50,
+      "currency": "PLN",
+      "transfer_date": "2024-05-15",
+      "description": "FV 133 Budownictwo24 sp. z o.o."
+    },
+    {
+      "sender_name": "Szybki Serwis",
+      "amount": 1476.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-16",
+      "description": "FV/2024/134 AutoFix"
+    },
+    {
+      "sender_name": "MEGA Sp. z o.o.",
+      "amount": 2214.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-17",
+      "description": "zapłata FV/2024/135 TechFarm"
+    },
+    {
+      "sender_name": "Kwiaciarnia Roza",
+      "amount": 664.20,
+      "currency": "PLN",
+      "transfer_date": "2024-05-14",
+      "description": "FV Fresh Flowers 136"
+    },
+    {
+      "sender_name": "T. Nowak",
+      "amount": 1168.50,
+      "currency": "PLN",
+      "transfer_date": "2024-05-18",
+      "description": "Opłata FV/2024/137"
+    },
+    {
+      "sender_name": "AgroMarket",
+      "amount": 3689.99,
+      "currency": "PLN",
+      "transfer_date": "2024-05-20",
+      "description": "FV 138 - Rolmasz"
+    },
+    {
+      "sender_name": "BlueSoft",
+      "amount": 5166.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-21",
+      "description": "Faktura nr FV/2024/139 CodeCraft"
+    },
+    {
+      "sender_name": "CreativeStudio",
+      "amount": 2337.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-21",
+      "description": "Faktura PixelHouse 140"
+    },
+    {
+      "sender_name": "LogiSoft",
+      "amount": 369.01,
+      "currency": "PLN",
+      "transfer_date": "2024-05-21",
+      "description": "FV141"
+    },
+    {
+      "sender_name": "Joanna B.",
+      "amount": 492.00,
+      "currency": "USD",
+      "transfer_date": "2024-05-20",
+      "description": "płatność 142"
+    },
+    {
+      "sender_name": "X-TRADE",
+      "amount": 5842.50,
+      "currency": "PLN",
+      "transfer_date": "2024-05-26",
+      "description": "zaliczka za FV/2024/143"
+    },
+    {
+      "sender_name": "Zielona Droga",
+      "amount": 1230.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-25",
+      "description": "FV/2024/144 za usługi sprzątające"
+    },
+    {
+      "sender_name": "TechNova",
+      "amount": 1353.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-14",
+      "description": "FV 2024/145 DataFlow"
+    },
+    {
+      "sender_name": "Oceanic Co.",
+      "amount": 614.98,
+      "currency": "USD",
+      "transfer_date": "2024-05-10",
+      "description": "Ocean invoice 146"
+    },
+    {
+      "sender_name": "MAX STACJA",
+      "amount": 1168.50,
+      "currency": "PLN",
+      "transfer_date": "2024-05-25",
+      "description": "Paliwo FV/2024/147"
+    },
+    {
+      "sender_name": "Jacek",
+      "amount": 246.00,
+      "currency": "EUR",
+      "transfer_date": "2024-05-03",
+      "description": "płatność za FV 148"
+    },
+    {
+      "sender_name": "Kitchen Pro",
+      "amount": 861.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-21",
+      "description": "FV/2024/149 kitchen"
+    },
+    {
+      "sender_name": "Biuro PRO",
+      "amount": 1107.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-14",
+      "description": "FV/2024/150 za usługi księgowe"
+    },
+    {
+      "sender_name": "ZielSklep",
+      "amount": 799.50,
+      "currency": "PLN",
+      "transfer_date": "2024-05-16",
+      "description": "Opłata za FV151"
+    },
+    {
+      "sender_name": "J. Smith",
+      "amount": 369.00,
+      "currency": "USD",
+      "transfer_date": "2024-05-13",
+      "description": "photo invoice 152"
+    },
+    {
+      "sender_name": "IT Group",
+      "amount": 1845.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-20",
+      "description": "FV/2024/153 zapłacone po terminie"
+    },
+    {
+      "sender_name": "Kowalczyk J.",
+      "amount": 270.60,
+      "currency": "EUR",
+      "transfer_date": "2024-05-07",
+      "description": "FV-154 usługa beauty"
+    },
+    {
+      "sender_name": "Lex Pol Sp. zoo",
+      "amount": 1845.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-08",
+      "description": "opł. 200"
+    },
+    {
+      "sender_name": "MK D3signs",
+      "amount": 491.99,
+      "currency": "PLN",
+      "transfer_date": "2024-05-10",
+      "description": "Zapłata za projekt - kwiecień"
+    },
+    {
+      "sender_name": "EcoFarmers EU",
+      "amount": 1230.00,
+      "currency": "EUR",
+      "transfer_date": "2024-05-07",
+      "description": "FV Agro 202"
+    },
+    {
+      "sender_name": "Karo Z.",
+      "amount": 147.60,
+      "currency": "PLN",
+      "transfer_date": "2024-05-13",
+      "description": "Joga 💆"
+    },
+    {
+      "sender_name": "GlobalTech",
+      "amount": 3075.00,
+      "currency": "USD",
+      "transfer_date": "2024-05-15",
+      "description": "DEV-M: f-vat 204"
+    },
+    {
+      "sender_name": "P.H.U. METALBUD",
+      "amount": 1353.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-12",
+      "description": "opłata FV/2024/300"
+    },
+    {
+      "sender_name": "Z. Nowicka",
+      "amount": 258.30,
+      "currency": "PLN",
+      "transfer_date": "2024-05-15",
+      "description": "B&Spa FV 301"
+    },
+    {
+      "sender_name": "Auto Fix",
+      "amount": 984.00,
+      "currency": "PLN",
+      "transfer_date": "2024-05-18",
+      "description": "Autofix -> Mechanika FV/2024/302"
+    },
+    {
+      "sender_name": "Joanna Kowalczyk",
+      "amount": 553.50,
+      "currency": "EUR",
+      "transfer_date": "2024-05-21",
+      "description": "payment: Online C FV-303"
+    },
+    {
+      "sender_name": "InterCloud",
+      "amount": 2460.00,
+      "currency": "USD",
+      "transfer_date": "2024-05-19",
+      "description": "Invoice 304 NetVision"
+    },
+    {
+      "sender_name": "Nowak&S",
+      "amount": 1045.50,
+      "currency": "PLN",
+      "transfer_date": "2024-05-19",
+      "description": "FV305 Elektronik 24"
+    },
+    {
+      "sender_name": "M. Bak",
+      "amount": 430.50,
+      "currency": "PLN",
+      "transfer_date": "2024-05-22",
+      "description": "FV EduMentor #306"
+    },
+    {
+      "sender_name": "Techno Logix",
+      "amount": 6150.00,
+      "currency": "USD",
+      "transfer_date": "2024-05-22",
+      "description": "Invoice FV/2024/307"
+    },
+    {
+      "sender_name": "Krzysztof Z.",
+      "amount": 147.60,
+      "currency": "PLN",
+      "transfer_date": "2024-05-20",
+      "description": "Zapłata za FV308 FIT"
+    },
+    {
+      "sender_name": "INV-BUD",
+      "amount": 10701.00,
+      "currency": "EUR",
+      "transfer_date": "2024-05-25",
+      "description": "FV/2024/309 opłata Budex"
+    }
+  ]
+}

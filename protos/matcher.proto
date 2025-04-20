@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+package matcher;
+
+message Invoice {
+    string number = 1;
+    string client_name = 2;
+    string seller_name = 3;
+    string tax_number = 4;
+    float total_net_amount = 5;
+    float total_tax_amount = 6;
+    float amount = 7;
+    string currency = 8;
+    string issue_date = 9;  // format ISO
+    string due_date = 10;   // format ISO
+  }
+  
+  // 📦 Definicja przelewu
+  message Transaction {
+    string sender_name = 1;
+    float amount = 2;
+    string currency = 3;
+    string transfer_date = 4;  // format ISO
+    string description = 5;
+  }
+  
+  // 📬 Dane do wysłania do Go-backendu
+  message MatchResult {
+    Invoice invoice = 1;
+    Transaction transaction = 2;
+    int32 prediction = 3;      // 0 lub 1
+    float probability = 4;     // 0.0 - 1.0
+  }
+  
+  // 🧠 Serwis
+  service MatcherService {
+    rpc SendMatch(Transaction) returns (MatchResult);
+  }
