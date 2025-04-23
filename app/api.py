@@ -1,29 +1,12 @@
 from fastapi import FastAPI
-from app.schemas import Invoice, Transaction
-from db.mongo import get_all_invoices, get_all_transactions, save_invoice, save_transaction, serialize_mongo_document
-from service.matcher_service import match_invoice_to_payment
+import uvicorn
+from app.routes import router
 
-app = FastAPI() 
+app = FastAPI(title="Smart Matcher API")
 
-@app.get("/")
-def root():
-    return {"message": "Smart Matcher is alive"}
+app.include_router(router, prefix="/api")
 
-@app.get("/match")
-async def match():
-    invoices_raw = await get_all_invoices()
-    transactions_raw = await get_all_transactions()
-    invoices = [serialize_mongo_document(inv) for inv in invoices_raw]
-    transactions = [serialize_mongo_document(tx) for tx in transactions_raw]
-    matched = match_invoice_to_payment(invoices, transactions)
-    return {"matched": matched}
-
-@app.post("/invoice", status_code=201)
-async def add_invoice(invoice: Invoice):
-    await save_invoice(invoice)
-    return {"status": "saved"}
-
-@app.post("/transaction", status_code=201)
-async def add_transaction(transaction: Transaction):
-    await save_transaction(transaction)
-    return {"status": "saved"}
+async def run_rest():
+    config = uvicorn.Config(app, host="0.0.0.0", port=8000, log_level="info")
+    server = uvicorn.Server(config)
+    await server.serve()

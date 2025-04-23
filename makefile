@@ -2,9 +2,11 @@
 
 APP_DIR=.
 
+PYTHON=.venv/bin/python
+
 run:
-	@echo "🚀 Uruchamianie serwera FastAPI..."
-	python -m uvicorn main:app --reload --app-dir=$(APP_DIR)
+	@echo "🚀 Uruchamianie REST + gRPC..."
+	PYTHONPATH=. $(PYTHON) app/main.py
 
 install:
 	@echo "📦 Instalacja zależności..."
